@@ -1,0 +1,1 @@
+{"name":"Local: prefix_Sum_2D_array","url":"c:\\Users\\KIIT\\Documents\\Comp_Code\\prefix_Sum_2D_array.cpp","tests":[{"id":1666786193213,"input":"3\n3 6 2\n8 9 2\n3 4 1\n2\n1 1 2 2\n1 2 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\KIIT\\Documents\\Comp_Code\\prefix_Sum_2D_array.cpp","group":"local","local":true}

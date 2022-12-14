@@ -1,0 +1,1 @@
+{"name":"Local: No","url":"c:\\Users\\KIIT\\Documents\\Comp_Code\\.cph\\Yes\\No.cpp","tests":[{"id":1666088314468,"input":"2\n5\n2 2 2 2 2\n4\n2 2 2 2 ","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\KIIT\\Documents\\Comp_Code\\.cph\\Yes\\No.cpp","group":"local","local":true}
