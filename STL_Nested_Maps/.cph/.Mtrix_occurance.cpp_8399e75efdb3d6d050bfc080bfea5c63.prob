@@ -1,0 +1,1 @@
+{"name":"Local: Mtrix_occurance","url":"c:\\Users\\KIIT\\Documents\\Comp_Code\\STL_Nested_Maps\\Mtrix_occurance.cpp","tests":[{"id":1673507073357,"input":"1 2 230\n111 321 251\n102  2 110\n\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\KIIT\\Documents\\Comp_Code\\STL_Nested_Maps\\Mtrix_occurance.cpp","group":"local","local":true}
