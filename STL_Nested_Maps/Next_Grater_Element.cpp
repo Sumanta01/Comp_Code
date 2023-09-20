@@ -15,7 +15,6 @@ vector<int> NGE(vector<int>v){
         st.pop();
     }
     return ans;
-
 }
 int main()
 {

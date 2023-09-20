@@ -18,6 +18,8 @@ int main()
        cout<<fib(i)<<" ";
    }
    cout<<endl;
+   cout<<fib(n);
+   cout<<endl;
 
   return 0;
 }

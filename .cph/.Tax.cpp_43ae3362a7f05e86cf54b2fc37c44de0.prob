@@ -1,0 +1,1 @@
+{"name":"Local: Tax","url":"c:\\Users\\KIIT\\Documents\\Comp_Code\\Tax.cpp","tests":[{"id":1689451020212,"input":"5\n\n1000 2000 3000 4000 5000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\KIIT\\Documents\\Comp_Code\\Tax.cpp","group":"local","local":true}

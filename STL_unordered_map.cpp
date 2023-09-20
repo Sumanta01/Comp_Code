@@ -6,6 +6,7 @@ void print(unordered_map<int ,string>&m){
         cout<<u.first<<" "<<u.second<<endl;
     }
 }
+
 int main()
 {
     unordered_map<int ,string>m;
