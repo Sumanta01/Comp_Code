@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int findLargeDigit(long  int n){
+int findLargeDigit(long int n){
     if(n==0){
         return 0;
     }
