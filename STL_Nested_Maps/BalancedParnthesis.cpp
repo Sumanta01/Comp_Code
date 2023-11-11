@@ -40,13 +40,8 @@ int main()
 {
     string str;
     cin>>str;
-    if(isValid(str)){
-        cout<<"Valid String"<<endl;
-    }
-    else{
-        cout<<"Invalid String"<<endl;
-    }
-    
+    bool res=isValid(str);
+    cout<<boolalpha<<res<<endl;
     
 
 

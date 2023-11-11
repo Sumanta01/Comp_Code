@@ -6,7 +6,7 @@ void diffPattern(int n){
             cout<<" ";
         }
         for(int k=1;k<=n;k++){
-            cout<<"*";
+            cout<<"* ";
         }
         cout<<endl;
     }
