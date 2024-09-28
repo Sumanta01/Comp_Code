@@ -14,6 +14,12 @@ int main()
     int k;
     cin>>k;
     findKthLargestElement(num);
+    for(int i=0;i<k;i++){
+        if(i==k-1){
+            cout<<num[i]<<" ";
+        }
+    }
+    cout<<endl;
     
     for(int i=k+1;i<n;i++){
         cout<<num[i]<<" ";

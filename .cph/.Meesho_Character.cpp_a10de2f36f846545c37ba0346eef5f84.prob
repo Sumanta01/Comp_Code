@@ -1,0 +1,1 @@
+{"name":"Local: Meesho_Character","url":"c:\\Users\\KIIT\\Documents\\Comp_Code\\Meesho_Character.cpp","tests":[{"id":1705573209039,"input":"abcde\nabcdefghijklmnopqrstuvwxyz\n1010111111111111","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\KIIT\\Documents\\Comp_Code\\Meesho_Character.cpp","group":"local","local":true}
